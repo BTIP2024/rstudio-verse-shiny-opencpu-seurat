@@ -1,1 +1,1 @@
-# rstudio-verse-shiny-opencpu-seurat
+Rstudio with Tidyverse + Shiny + OpenCPU based on Rocker with Seurat package
