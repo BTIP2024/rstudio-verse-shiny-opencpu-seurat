@@ -57,4 +57,4 @@ RUN R --no-echo --no-restore --no-save -e "devtools::install_github('mojaveazure
 # Install SeuratData
 RUN R --no-echo --no-restore --no-save -e "devtools::install_github('satijalab/seurat-data')"
 
-CMD ["\init"]
+CMD ["/init"]
